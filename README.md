@@ -10,23 +10,55 @@
     
 # Screenshots
 
-## Prompt alert asking for range of numbers.
+## Prompt asking for range of numbers.
 
 ![password-gen-demo #1](https://user-images.githubusercontent.com/73779089/126022195-88d2e6e1-b4eb-4e1d-a8f9-46431eb2d38a.png)
 
+## Alert message informing user of restraints.
+
+![password-gen-error message #1](https://user-images.githubusercontent.com/73779089/126022214-f8078433-c26e-4610-b56e-27d228f76711.png)
+
+## Confirm messages asking user to confirm inclusion of uppercase letters.
+
+![password-gen-demo #2](https://user-images.githubusercontent.com/73779089/126022226-0fd5e52e-eb0e-4214-a976-1260cf576f30.png)
+
+## Alert message informing user that atleast one of the 4 options must be chosen.
+
+![password-gen-error message #2](https://user-images.githubusercontent.com/73779089/126022245-b271b50f-186e-480f-a276-e3b5536e9782.png)
+
+## Final product with fully generated password
+
+![password-gen-demo #3](https://user-images.githubusercontent.com/73779089/126022259-5a65fe3b-34ec-4b6c-b35f-a0bf401e6e6c.png)
+
+
+
+
+### To try it out for yourself click the link below to access the generator's Github pages!
+
+https://nbk-01.github.io/Password-gen/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
 
 
 
-## Benefits!
-    - Alt attributes increase SEO in addition to providing accessibility to end-users.
-
-    - Semantic elements added to increase accessibility for users and also providing better SEO optimization.
-    
-    -Title attributes provide same benefits as Alt attributes in cases where Alt can not be used 
-
-    -CSS and HTML comments and links help other developers understand what others left behind.
 
 
-### Link to Github pages:
-   # https://nbk-01.github.io/Horiseon-SEO-optimized/
+
