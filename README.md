@@ -12,7 +12,8 @@
 
 ## Prompt alert asking for range of numbers.
 
-![demo picture](assets/pictures/password-gen-demo #1.png)
+![password-gen-demo #1](https://user-images.githubusercontent.com/73779089/126022195-88d2e6e1-b4eb-4e1d-a8f9-46431eb2d38a.png)
+
     
 
 
