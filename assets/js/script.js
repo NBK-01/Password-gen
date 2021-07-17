@@ -1,4 +1,4 @@
-// Assignment Code
+
 var generateBtn = document.querySelector("#generate");
 
 confirmRange();
@@ -9,7 +9,7 @@ var numbers
 
 function confirmRange() {
 
-  //create prompt for users desired password criteria
+  
   num = prompt("How many characters would you like? Please choose between 8-128.");
   
   if (parseInt(num) < 8 || parseInt(num) > 128) {
